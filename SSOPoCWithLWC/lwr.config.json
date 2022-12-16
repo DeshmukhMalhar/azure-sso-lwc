@@ -1,0 +1,30 @@
+{
+    "lwc": {
+        "modules": [
+            {
+                "dir": "$rootDir/src/modules"
+            },
+            {
+                "name":"loginrequest",
+                "path":"$rootDir/src/helpers/loginrequest.js"
+            }
+        ]
+    },
+    "routes": [
+        {
+            "id": "example",
+            "path": "/",
+            "rootComponent": "example/app"
+        },
+        {
+            "id": "home",
+            "path": "/home",
+            "rootComponent": "c/home"
+        },
+        {
+            "id": "login",
+            "path": "/login",
+            "rootComponent": "c/login"
+        }
+    ]
+}

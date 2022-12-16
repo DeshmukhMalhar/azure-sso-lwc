@@ -1,0 +1,338 @@
+[
+  [
+    "example/app@0.0.1",
+    {
+      "ownHash": "71cb8f8c42b428459408dca3e0ae787d",
+      "module": "./cache/example_app_0_0_1.js",
+      "moduleMeta": "./cache/example_app_0_0_1.meta.json"
+    }
+  ],
+  [
+    "lwr/esmLoader@0.8.7",
+    {
+      "ownHash": "ffb323d6abfc661ede63b5cf39a38a14",
+      "module": "./cache/lwr_esmLoader_0_8_7.js",
+      "moduleMeta": "./cache/lwr_esmLoader_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/preInit@0.8.7",
+    {
+      "ownHash": "4abc90ae314e383e4c23f4dc607d9643",
+      "module": "./cache/lwr_preInit_0_8_7.js",
+      "moduleMeta": "./cache/lwr_preInit_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/hmr@0.8.7",
+    {
+      "ownHash": "b6c05a5d79ea66f651b367c2a6190189",
+      "module": "./cache/lwr_hmr_0_8_7.js",
+      "moduleMeta": "./cache/lwr_hmr_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/init@0.8.7",
+    {
+      "ownHash": "6258bcb20cc2d5d6a9f3c5a6f9d0acaf",
+      "module": "./cache/lwr_init_0_8_7.js",
+      "moduleMeta": "./cache/lwr_init_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/metrics@0.8.7",
+    {
+      "ownHash": "dfbc827104d50ff7d16b59c9d0e06aca",
+      "module": "./cache/lwr_metrics_0_8_7.js",
+      "moduleMeta": "./cache/lwr_metrics_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/profiler@0.8.7",
+    {
+      "ownHash": "5a10236d8c52bc9f6dee22875cd7016d",
+      "module": "./cache/lwr_profiler_0_8_7.js",
+      "moduleMeta": "./cache/lwr_profiler_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwc@2.17.0",
+    {
+      "ownHash": "60dae7a83431c35c02c87ca8aaaa6044",
+      "module": "./cache/lwc_2_17_0.js",
+      "moduleMeta": "./cache/lwc_2_17_0.meta.json"
+    }
+  ],
+  [
+    "lwr/hmr#util/swap@0.8.7",
+    {
+      "ownHash": "b90e85947b9514fa4d53fbced946e451",
+      "module": "./cache/lwr_hmr_util_swap_0_8_7.js",
+      "moduleMeta": "./cache/lwr_hmr_util_swap_0_8_7.meta.json"
+    }
+  ],
+  [
+    "example/app#app.html@0.0.1",
+    {
+      "ownHash": "ad1f3f8583d9184c7f458e0911cf7047",
+      "module": "./cache/example_app_app_html_0_0_1.js",
+      "moduleMeta": "./cache/example_app_app_html_0_0_1.meta.json"
+    }
+  ],
+  [
+    "example/app#app.css@0.0.1",
+    {
+      "ownHash": "85c881c185f08e541373b2b395ed488c",
+      "module": "./cache/example_app_app_css_0_0_1.js",
+      "moduleMeta": "./cache/example_app_app_css_0_0_1.meta.json"
+    }
+  ],
+  [
+    "example/app#app.scoped.css?scoped=true@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/example_app_app_scoped_css_scoped=true_0_0_1.js",
+      "moduleMeta": "./cache/example_app_app_scoped_css_scoped=true_0_0_1.meta.json"
+    }
+  ],
+  [
+    "c/login@0.0.1",
+    {
+      "ownHash": "a32138f9470159003855b38d8d1d492a",
+      "module": "./cache/c_login_0_0_1.js",
+      "moduleMeta": "./cache/c_login_0_0_1.meta.json"
+    }
+  ],
+  [
+    "c/home@0.0.1",
+    {
+      "ownHash": "314ca62cb7f0b45a3bda10d1486e0daf",
+      "module": "./cache/c_home_0_0_1.js",
+      "moduleMeta": "./cache/c_home_0_0_1.meta.json"
+    }
+  ],
+  [
+    "c/home#home.html@0.0.1",
+    {
+      "ownHash": "34fb32e45f71a91fe671b24c72b5fc30",
+      "module": "./cache/c_home_home_html_0_0_1.js",
+      "moduleMeta": "./cache/c_home_home_html_0_0_1.meta.json"
+    }
+  ],
+  [
+    "c/home#home.css@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/c_home_home_css_0_0_1.js",
+      "moduleMeta": "./cache/c_home_home_css_0_0_1.meta.json"
+    }
+  ],
+  [
+    "c/home#home.scoped.css?scoped=true@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/c_home_home_scoped_css_scoped=true_0_0_1.js",
+      "moduleMeta": "./cache/c_home_home_scoped_css_scoped=true_0_0_1.meta.json"
+    }
+  ],
+  [
+    "c/login#login.html@0.0.1",
+    {
+      "ownHash": "588d3a649a412b0cb602cf11c1e206b5",
+      "module": "./cache/c_login_login_html_0_0_1.js",
+      "moduleMeta": "./cache/c_login_login_html_0_0_1.meta.json"
+    }
+  ],
+  [
+    "c/login#login.css@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/c_login_login_css_0_0_1.js",
+      "moduleMeta": "./cache/c_login_login_css_0_0_1.meta.json"
+    }
+  ],
+  [
+    "c/login#login.scoped.css?scoped=true@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/c_login_login_scoped_css_scoped=true_0_0_1.js",
+      "moduleMeta": "./cache/c_login_login_scoped_css_scoped=true_0_0_1.meta.json"
+    }
+  ],
+  [
+    "lightning/navigation@0.8.7",
+    {
+      "ownHash": "27e5450050d0f52a375f848bb47c51d2",
+      "module": "./cache/lightning_navigation_0_8_7.js",
+      "moduleMeta": "./cache/lightning_navigation_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/navigationContext@0.8.7",
+    {
+      "ownHash": "c2d2196774c2d04954bc693a5f11d3f6",
+      "module": "./cache/lwr_navigationContext_0_8_7.js",
+      "moduleMeta": "./cache/lwr_navigationContext_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/currentPageReference@0.8.7",
+    {
+      "ownHash": "fe430b1823894680f458165116568d34",
+      "module": "./cache/lwr_currentPageReference_0_8_7.js",
+      "moduleMeta": "./cache/lwr_currentPageReference_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/currentView@0.8.7",
+    {
+      "ownHash": "60a0b74b14ed62b17086c47a5a9d0a96",
+      "module": "./cache/lwr_currentView_0_8_7.js",
+      "moduleMeta": "./cache/lwr_currentView_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/contextUtils@0.8.7",
+    {
+      "ownHash": "b0bbf76d114294eb412eba317649045f",
+      "module": "./cache/lwr_contextUtils_0_8_7.js",
+      "moduleMeta": "./cache/lwr_contextUtils_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lightning/navigation#navigationApi@0.8.7",
+    {
+      "ownHash": "bf09d64303fd3dbc87a80ae034d83ab8",
+      "module": "./cache/lightning_navigation_navigationApi_0_8_7.js",
+      "moduleMeta": "./cache/lightning_navigation_navigationApi_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lightning/navigation#navigationMixin@0.8.7",
+    {
+      "ownHash": "b3fc8a710f69623627ea01b70fbbb55f",
+      "module": "./cache/lightning_navigation_navigationMixin_0_8_7.js",
+      "moduleMeta": "./cache/lightning_navigation_navigationMixin_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/routerErrors@0.8.7",
+    {
+      "ownHash": "67eebc9b9c7e25f7ce501f9e9fd23f40",
+      "module": "./cache/lwr_routerErrors_0_8_7.js",
+      "moduleMeta": "./cache/lwr_routerErrors_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/navigationMixinHacks@0.8.7",
+    {
+      "ownHash": "32b46904444e2461df125ebf6e4ffe7d",
+      "module": "./cache/lwr_navigationMixinHacks_0_8_7.js",
+      "moduleMeta": "./cache/lwr_navigationMixinHacks_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/contextUtils#contextInfo@0.8.7",
+    {
+      "ownHash": "ca3a4b2ebe547f010d0ea3cf1dea5ece",
+      "module": "./cache/lwr_contextUtils_contextInfo_0_8_7.js",
+      "moduleMeta": "./cache/lwr_contextUtils_contextInfo_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/contextUtils#navigationApiStore@0.8.7",
+    {
+      "ownHash": "7fa481f99f1d363b3f2351fd74f670f3",
+      "module": "./cache/lwr_contextUtils_navigationApiStore_0_8_7.js",
+      "moduleMeta": "./cache/lwr_contextUtils_navigationApiStore_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/routerUtils@0.8.7",
+    {
+      "ownHash": "fc2b887082be9e4b508ff68bb0091411",
+      "module": "./cache/lwr_routerUtils_0_8_7.js",
+      "moduleMeta": "./cache/lwr_routerUtils_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/routerUtils#filterUtils@0.8.7",
+    {
+      "ownHash": "438b52550e5293df0d341f36bf9698c1",
+      "module": "./cache/lwr_routerUtils_filterUtils_0_8_7.js",
+      "moduleMeta": "./cache/lwr_routerUtils_filterUtils_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/routerUtils#routeDefUtils@0.8.7",
+    {
+      "ownHash": "603611fe3cd9629c96b5f39214dab018",
+      "module": "./cache/lwr_routerUtils_routeDefUtils_0_8_7.js",
+      "moduleMeta": "./cache/lwr_routerUtils_routeDefUtils_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/routerUtils#routeUtils@0.8.7",
+    {
+      "ownHash": "b38234058656aaacd0c931eca51f8ec7",
+      "module": "./cache/lwr_routerUtils_routeUtils_0_8_7.js",
+      "moduleMeta": "./cache/lwr_routerUtils_routeUtils_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/routerUtils#typeUtils@0.8.7",
+    {
+      "ownHash": "b0abb9b0084b73b6decd493b1bc5f205",
+      "module": "./cache/lwr_routerUtils_typeUtils_0_8_7.js",
+      "moduleMeta": "./cache/lwr_routerUtils_typeUtils_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/routerUtils#parseUtils@0.8.7",
+    {
+      "ownHash": "3af466b21f299e759fffa6d3dc67095e",
+      "module": "./cache/lwr_routerUtils_parseUtils_0_8_7.js",
+      "moduleMeta": "./cache/lwr_routerUtils_parseUtils_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/routerUtils#pathToRegexp@0.8.7",
+    {
+      "ownHash": "1941d3cb6e668f4e8119ec545b366cdb",
+      "module": "./cache/lwr_routerUtils_pathToRegexp_0_8_7.js",
+      "moduleMeta": "./cache/lwr_routerUtils_pathToRegexp_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/routerUtils#uriUtils@0.8.7",
+    {
+      "ownHash": "b2b50d0f1f8a2568763885478a33ff9f",
+      "module": "./cache/lwr_routerUtils_uriUtils_0_8_7.js",
+      "moduleMeta": "./cache/lwr_routerUtils_uriUtils_0_8_7.meta.json"
+    }
+  ],
+  [
+    "lwr/routerUtils#domUtils@0.8.7",
+    {
+      "ownHash": "546c7fa1de797126df78ec31cc565586",
+      "module": "./cache/lwr_routerUtils_domUtils_0_8_7.js",
+      "moduleMeta": "./cache/lwr_routerUtils_domUtils_0_8_7.meta.json"
+    }
+  ],
+  [
+    "loginrequest@0.0.1",
+    {
+      "ownHash": "fce44de84bf8b737e272d6d14207c422",
+      "module": "./cache/loginrequest_0_0_1.js",
+      "moduleMeta": "./cache/loginrequest_0_0_1.meta.json"
+    }
+  ],
+  [
+    "loginrequest#loginrequest.html@0.0.1",
+    {
+      "ownHash": "13fcec3d73f055fccd306149598cb9b5",
+      "module": "./cache/loginrequest_loginrequest_html_0_0_1.js",
+      "moduleMeta": "./cache/loginrequest_loginrequest_html_0_0_1.meta.json"
+    }
+  ]
+]
